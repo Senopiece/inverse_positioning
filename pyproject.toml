@@ -1,0 +1,14 @@
+[project]
+name = "inverse-positioning"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "nbclient>=0.10.4",
+    "nbformat>=5.10.4",
+    "notebook>=7.5.6",
+    "numpy>=2.4.4",
+    "plotly>=6.7.0",
+    "scipy>=1.17.1",
+    "tqdm>=4.67.3",
+]
